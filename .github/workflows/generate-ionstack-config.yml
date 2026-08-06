@@ -1,4 +1,4 @@
-name: Generate IonStack Config
+https://files.cocaine.trade/firmware/meta/Quest%203/q3_52345320035400520.zipname: Generate IonStack Config
 
 on:
   workflow_dispatch:
